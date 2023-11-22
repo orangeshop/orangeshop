@@ -1,1 +1,2 @@
 # orangeshop
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orangeshop&show_icons=true&theme=radical)
