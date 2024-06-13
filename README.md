@@ -27,5 +27,5 @@
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 </p>
 <hr></hr>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orangeshop&show_icons=true&theme=radical)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orangeshop&show_icons=true&theme=radical)
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=orangeshop&layout=compact&langs_count=8&theme=chartreuse-dark"/>
