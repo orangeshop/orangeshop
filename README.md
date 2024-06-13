@@ -2,7 +2,6 @@
 
 ### 🤞 Nice to meet you!
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhkeh123)](https://solved.ac/rhkeh123/)
 
 ---
 
@@ -25,7 +24,9 @@
 </p>
 
 ---
-
+#### Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhkeh123)](https://solved.ac/rhkeh123/)
+---
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=orangeshop&show_icons=true&theme=radical" height="180em"/>
