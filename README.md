@@ -1,4 +1,3 @@
-
 # 🍊 **OrangeShop**
 
 ### 🤝 **Nice to meet you!**
@@ -37,7 +36,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=orangeshop&show_icons=true&theme=radical" height="180em"/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=orangeshop&layout=compact&langs_count=8&theme=chartreuse-dark" height="180em"/>
 </p>
-
----
-
-이렇게 정리하면 내용이 한눈에 깔끔하게 들어오고, Notion 링크도 더 눈에 띄게 됩니다.
