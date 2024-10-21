@@ -4,7 +4,7 @@
 
 <p>
   <h3>🔗 Notion Workspace</h3>
-  <a href="https://alder-tempo-a30.notion.site/4552feedd38747228b875c687ccf1702?pvs=25" target="_blank">Visit my Notion</a>
+<!--   <a href="https://alder-tempo-a30.notion.site/4552feedd38747228b875c687ccf1702?pvs=25" target="_blank">Visit my Notion</a> -->
 </p>
 
 ---
